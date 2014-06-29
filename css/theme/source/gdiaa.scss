@@ -123,3 +123,14 @@ pre {
     padding: 5px 10px;
   }
 }
+
+/*********************************************
+ * EVENT
+ *********************************************/
+
+.event__title {
+  @extend .blue;
+  text-transform: uppercase !important;
+
+  small { @extend .grey--light; }
+}
