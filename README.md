@@ -66,3 +66,19 @@ To remove the border from images, use:
 ```css
 .img--bare
 ```
+
+To align text, use:
+
+```css
+.center-align
+.left-align
+.right-align
+```
+
+To float content, use:
+
+```css
+.left
+.right
+.clear
+```
